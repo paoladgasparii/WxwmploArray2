@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WxwmploArray2", "WxwmploArray2\WxwmploArray2.csproj", "{9AE5D64E-263B-4B0E-99B6-A4BD0644F685}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploArray2", "WxwmploArray2\ExemploArray2.csproj", "{9AE5D64E-263B-4B0E-99B6-A4BD0644F685}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
